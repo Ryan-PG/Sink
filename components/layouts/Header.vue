@@ -23,7 +23,7 @@ const { title, github } = useAppConfig()
               class="flex items-center justify-center w-8 h-8 rounded-full"
             >
               <img
-                src="/sink.png"
+                src="/IMG_4146-01_NEW.png"
                 :alt="title"
                 class="w-full h-full rounded-full"
               >
@@ -49,7 +49,7 @@ const { title, github } = useAppConfig()
                 class="flex items-center justify-center w-8 h-8 text-white bg-gray-900 rounded-full"
               >
                 <img
-                  src="/sink.png"
+                  src="/IMG_4146-01_NEW.png"
                   :alt="title"
                   class="w-full h-full rounded-full"
                 >
@@ -60,11 +60,11 @@ const { title, github } = useAppConfig()
             <div
               class="flex flex-col items-start justify-end w-full pt-4 md:items-center md:w-1/3 md:flex-row md:py-0"
             >
-              <a
+              <!-- <a
                 class="w-full px-6 py-2 mr-0 text-gray-700 cursor-pointer dark:text-gray-300 md:px-3 md:mr-2 lg:mr-3 md:w-auto"
                 href="/dashboard"
                 :title="`${title} Dashboard`"
-              >Dashboard</a>
+              >Dashboard</a> -->
               <a
                 :href="github"
                 target="_blank"
