@@ -45,9 +45,9 @@ const {
         </HomeLink> -->
       </div>
     </div>
-    <div class="hidden py-6 md:block">
+    <div>
       <!-- <div class="w-[512px]" v-html="heroImg" /> -->
-      <img src="../../public/IMG_4146-01_NEW.png" alt="">
+      <img width="500" style="object-fit: cover;" src="../../public/IMG_4146-01_NEW.png" alt="Ryan Heida Image ;)">
     </div>
   </main>
 </template>
