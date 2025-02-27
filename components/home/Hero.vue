@@ -1,5 +1,5 @@
 <script setup>
-import heroImg from '@/assets/images/IMG_4146-01_NEW.png'
+import heroImg from '@/public/IMG_4146-01_NEW.png'
 // import { AreaChart } from 'lucide-vue-next'
 // import { GitHubIcon } from 'vue3-simple-icons'
 
