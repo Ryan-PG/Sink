@@ -21,7 +21,7 @@ const { title, github } = useAppConfig()
             <span class="flex items-center justify-center rounded-full">
               <img src="/IMG_4146-01_NEW.png" :alt="title" class="rounded-full" style="object-fit: cover" width="50">
             </span>
-            <span class="mx-2">{{ title }}</span>
+            <span class="mx-2">Ryan Heida LS</span>
           </a>
         </div>
 
